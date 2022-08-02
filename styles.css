@@ -45,4 +45,5 @@ table, tr, td
 .body{
    background-image: url("cal.jpg");
    background-repeat:no-repeat;
+   background-image:cover;
 }
