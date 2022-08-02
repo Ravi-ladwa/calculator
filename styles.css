@@ -1,0 +1,47 @@
+
+table, tr, td
+{
+   border-collapse: collapse ;
+
+   width: 300px;
+   height: 32px;
+   text-align: center;
+}
+.btn {
+    border-width: 1px;
+    border-style: inset;
+    border-block-end: inherit;
+    padding-block: inherit;
+    height: 31px;
+    width: 70px;
+    color: black;
+    text-shadow: 19px;
+    background-color: bisque;
+    font-size: x-large;
+    border: solid;
+    
+}
+.txt{
+   column-span: 3;
+   height: 25px;
+   width: 211px;
+   border: 1px solid;
+   background-color: beige
+}
+
+.div1{
+   padding: 2px;
+   text-align: -webkit-center;
+}
+
+.btn:hover{
+   color: blue;
+}
+.head{
+   text-align: center;
+   background-color: beige;
+
+}
+.body{
+   background-image: url("cal.jpg");
+}
